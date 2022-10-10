@@ -18,3 +18,12 @@
   border-top: 3px solid white;
   width: 20%;
 }
+
+.line-black {
+  border-top: 3px solid black;
+  width: 20%;
+}
+
+.image {
+  width: 100%;
+}
