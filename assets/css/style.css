@@ -32,3 +32,17 @@
 .btn-light {
   background-color: #1abc9c;
 }
+
+.location {
+  background-color: #3a546d;
+}
+
+.fa-facebook-f,
+.fa-google-plus-g,
+.fa-twitter,
+.fa-linkedin {
+  border: 1px solid white;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+}
