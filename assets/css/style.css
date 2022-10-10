@@ -28,3 +28,7 @@
 .image {
   width: 100%;
 }
+
+.btn-light {
+  background-color: #1abc9c;
+}
