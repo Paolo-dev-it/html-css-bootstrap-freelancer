@@ -13,3 +13,8 @@
   width: 200px;
   height: 200px;
 }
+
+.line {
+  border-top: 3px solid white;
+  width: 20%;
+}
