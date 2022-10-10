@@ -5,7 +5,8 @@
   flex-grow: 0;
 }
 
-.presentation-green {
+.presentation-green,
+.about {
   background-color: #1abc9c;
 }
 
