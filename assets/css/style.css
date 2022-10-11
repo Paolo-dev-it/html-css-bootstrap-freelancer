@@ -25,6 +25,13 @@
   width: 20%;
 }
 
+.form-control {
+  border-top: 0;
+  border-right: 0;
+  border-left: 0;
+  border-bottom: 1 px solid black;
+}
+
 .btn-light {
   background-color: #1abc9c;
 }
